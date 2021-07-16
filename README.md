@@ -6,7 +6,7 @@ This is a price tracker of shares made for stock traders.
 * It logs the stock prices on a csv file and plots them against time for the companies the user wants to track.
 * It sends the user e-mail alerts when the stock prices cross the specified value for them depending on whether the user is intending to buy or sell the shares.
 
-### StockTracker.py
+### Stock.py
 * The main function that extracts real-time stock prices of the specified shares using web-scrapping from http://finance.yahoo.com/.
 * It logs the prices of the various stocks specified by the user along with the time to a csv file till all the stocks have crossed their specified bounds.
 * Alerts are sent through e-mail, regarding the stocks of a company, to user when it crosses the bound that was specified by the user.
