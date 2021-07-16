@@ -28,5 +28,5 @@ Plots the real-time stock prices for each of the given shares against their curr
 Example of the plots for stock price variation:
 
 <p align="center">
-  <img src="https://github.com/im-krishna/Stock-price-tracker/blob/main/Screenshot%202021-07-10%20152610.png">
+  <img src="https://github.com/im-krishna/Stock-price-tracker/blob/main/Screenshot%202021-07-10%20152727.png">
 </p>
