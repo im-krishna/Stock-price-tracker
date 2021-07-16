@@ -1,5 +1,5 @@
 # Stock-Price-Tracker
-A program that logs the real-time stock prices of companies and sends alerts on the right-time for trading shares.
+Web scraper tracking and alert system built for stock prices 
 
 ## About
 This is a price tracker of shares made for stock traders.
@@ -16,13 +16,13 @@ This is a price tracker of shares made for stock traders.
     * smtplib - send mail to the user
     * ssl - secure the connection to the mail host
 
-Example of the logged values in the csv file:
+Example:
 
 <p>
   <img src="https://github.com/im-krishna/Stock-price-tracker/blob/main/Screenshot%202021-07-10%20152610.png">
 </p>
 
-### Plot.py
+### plot.py
 Plots the real-time stock prices for each of the given shares against their current time instant. This would help in visualising the market/share scenario for the user, giving the idea of the usual trend.
 
 Example of the plots for stock price variation:
