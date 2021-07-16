@@ -19,7 +19,7 @@ This is a price tracker of shares made for stock traders.
 Example of the logged values in the csv file:
 
 <p>
-  <img src="https://github.com/Riope/Stock-Prize-Tracker/blob/main/PriceData.jpg?raw=true">
+  <img src="https://github.com/im-krishna/Stock-price-tracker/blob/main/Screenshot%202021-07-10%20152610.png">
 </p>
 
 ### Plot.py
